@@ -1,0 +1,29 @@
+Command line:
+   FACM_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59310
+
+Tue Feb 19 16:25:32 2019
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 1006.46 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 102
+Total Line Count : 56
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 1321.55 Meg
+
+Tue Feb 19 16:26:15 2019
+

@@ -1,0 +1,3 @@
+verilog work "clkdiv.v"
+verilog work "Rising_Edge_Detector.v"
+verilog work "Flight_Attendant_Call_Schematic.vf"

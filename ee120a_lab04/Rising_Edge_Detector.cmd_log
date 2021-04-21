@@ -1,0 +1,109 @@
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 
+bitgen -intstyle ise -f Rising_Edge_Detector.ut Rising_Edge_Detector.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Rising_Edge_Detector.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc RisEdgeDet.ucf -p xc3s100e-cp132-4 "Rising_Edge_Detector.ngc" Rising_Edge_Detector.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ngd Rising_Edge_Detector.pcf 
+par -w -intstyle ise -ol high -t 1 Rising_Edge_Detector_map.ncd Rising_Edge_Detector.ncd Rising_Edge_Detector.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Rising_Edge_Detector.twx Rising_Edge_Detector.ncd -o Rising_Edge_Detector.twr Rising_Edge_Detector.pcf -ucf RisEdgeDet.ucf 

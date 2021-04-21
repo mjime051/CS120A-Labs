@@ -1,0 +1,29 @@
+Command line:
+   data_bus_data_bus_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58463
+
+Wed Jan 16 16:24:02 2019
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 1006.26 Meg
+
+ Total Signals          : 29
+ Total Nets             : 21
+ Total Signal Drivers   : 12
+ Total Blocks           : 4
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 25
+ Total Scalar Nets and Variables : 108
+Total Line Count : 49
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 1322.41 Meg
+
+Wed Jan 16 16:24:48 2019
+

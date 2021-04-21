@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="ee120a_LSP1_sprinkler_valve_controller.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="behavioral_data_bus_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VERILOG" xil_pn:name="data_bus.vf"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="data_bus_data_bus_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_VERILOG" xil_pn:name="sprinkler_circuit.vf"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sprinkler_circuit_sprinkler_circuit_sch_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="sprinkler_circuit_sprinkler_circuit_sch_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="sprinkler_circuit_sprinkler_circuit_sch_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="structural_sprinkler_circuit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="structural_sprinkler_circuit_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="structural_sprinkler_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1547680153" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1547680153">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1547686124" xil_pn:in_ck="-5334961224078223729" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1547686124">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="behavioral_data_bus.v"/>
+      <outfile xil_pn:name="behavioral_data_bus_tb.v"/>
+      <outfile xil_pn:name="data_bus_tb.v"/>
+      <outfile xil_pn:name="sprinkler_circuit_tb.v"/>
+      <outfile xil_pn:name="structural_sprinkler_circuit.v"/>
+      <outfile xil_pn:name="structural_sprinkler_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1548883665" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="1242558165216003712" xil_pn:start_ts="1548883665">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1548883667" xil_pn:in_ck="6192962561321772359" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2882077816211591326" xil_pn:start_ts="1548883665">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="data_bus.vf"/>
+      <outfile xil_pn:name="sprinkler_circuit.vf"/>
+    </transform>
+    <transform xil_pn:end_ts="1547680155" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="1626664624584869097" xil_pn:start_ts="1547680155">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1547686124" xil_pn:in_ck="-8613492097726864718" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1547686124">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="behavioral_data_bus.v"/>
+      <outfile xil_pn:name="behavioral_data_bus_tb.v"/>
+      <outfile xil_pn:name="data_bus.vf"/>
+      <outfile xil_pn:name="data_bus_tb.v"/>
+      <outfile xil_pn:name="sprinkler_circuit.vf"/>
+      <outfile xil_pn:name="sprinkler_circuit_tb.v"/>
+      <outfile xil_pn:name="structural_sprinkler_circuit.v"/>
+      <outfile xil_pn:name="structural_sprinkler_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1548883671" xil_pn:in_ck="-8613492097726864718" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="8520473269173679855" xil_pn:start_ts="1548883667">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="sprinkler_circuit_sprinkler_circuit_sch_tb_beh.prj"/>
+      <outfile xil_pn:name="sprinkler_circuit_sprinkler_circuit_sch_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1548883671" xil_pn:in_ck="1943354465845298090" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="8351315717704503890" xil_pn:start_ts="1548883671">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="sprinkler_circuit_sprinkler_circuit_sch_tb_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

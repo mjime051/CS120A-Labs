@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/CS120A Labs/ee120a_mini_project/traffic_light_schematic_traffic_light_schematic_sch_tb_isim_beh.exe" -prj "D:/CS120A Labs/ee120a_mini_project/traffic_light_schematic_traffic_light_schematic_sch_tb_beh.prj" "work.traffic_light_schematic_traffic_light_schematic_sch_tb" "work.glbl" 

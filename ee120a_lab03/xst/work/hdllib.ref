@@ -1,0 +1,4 @@
+MO sprinkler_circuit_updated NULL sprinkler_circuit_updated.vf vlg3A/sprinkler__circuit__updated.bin 1548892400
+MO bcd_to_7led_bh NULL bcd_to_7led_bh.v vlg6B/bcd__to__7led__bh.bin 1548894387
+AR and_gate behavioral "D:/CS120A Labs/ee120a_lab03/and_gate.vhf" sub00/vhpl01 1548888087
+MO and_gate NULL and_gate.vf vlg7B/and__gate.bin 1548889271

@@ -1,0 +1,7 @@
+verilog work "fulladder_st.v"
+verilog work "comparatorgen_st.v"
+verilog work "addergen_st.v"
+verilog work "flopr.v"
+verilog work "adder.v"
+verilog work "timer_st.v"
+verilog work "Street_Light_sys.v"

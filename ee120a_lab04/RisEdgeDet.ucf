@@ -1,0 +1,5 @@
+// Inputs
+NET "clk" LOC = "B8";
+NET "signal" LOC = "P11";
+// Outputs
+NET "outedge" LOC = "M5";

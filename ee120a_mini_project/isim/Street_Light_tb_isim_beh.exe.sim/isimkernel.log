@@ -1,0 +1,29 @@
+Command line:
+   Street_Light_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50276
+
+Thu Mar 14 16:46:16 2019
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 1007.33 Meg
+
+ Total Signals          : 782
+ Total Nets             : 967
+ Total Signal Drivers   : 434
+ Total Blocks           : 151
+ Total Primitive Blocks : 137
+ Total Processes        : 442
+ Total Traceable Variables  : 62
+ Total Scalar Nets and Variables : 1882
+Total Line Count : 403
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 1008.38 Meg
+
+Thu Mar 14 16:46:37 2019
+

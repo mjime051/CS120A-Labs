@@ -1,0 +1,29 @@
+Command line:
+   structural_sprinkler_circuit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58456
+
+Wed Jan 16 16:21:45 2019
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 1007.12 Meg
+
+ Total Signals          : 25
+ Total Nets             : 25
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 105
+Total Line Count : 15
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 1007.12 Meg
+
+Wed Jan 16 16:21:55 2019
+

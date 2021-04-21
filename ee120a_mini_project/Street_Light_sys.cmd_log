@@ -1,0 +1,1127 @@
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xa7a100t-csg324-2I "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xa7a100t-csg324-2I "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.xst" -ofn "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc street_light_sys_const.ucf -p xc3s100e-cp132-4 "Street_Light_sys.ngc" Street_Light_sys.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Street_Light_sys_map.ncd Street_Light_sys.ngd Street_Light_sys.pcf 
+par -w -intstyle ise -ol high -t 1 Street_Light_sys_map.ncd Street_Light_sys.ncd Street_Light_sys.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Street_Light_sys.twx Street_Light_sys.ncd -o Street_Light_sys.twr Street_Light_sys.pcf -ucf street_light_sys_const.ucf 
+bitgen -intstyle ise -f Street_Light_sys.ut Street_Light_sys.ncd 

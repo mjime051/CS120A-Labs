@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\CS120A Labs\ee120a_lab03\sprinkler_circuit_updated.ncd
+OUTFILE=D:\CS120A Labs\ee120a_lab03\sprinkler_circuit_updated.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=D:\CS120A Labs\ee120a_lab03
+LICENSE=WebPack
+USER_INFO=211658651_0_0_379

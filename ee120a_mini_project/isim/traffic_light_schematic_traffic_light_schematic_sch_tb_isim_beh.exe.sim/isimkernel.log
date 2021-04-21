@@ -1,0 +1,29 @@
+Command line:
+   traffic_light_schematic_traffic_light_schematic_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56178
+
+Sun Mar 17 16:15:47 2019
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 1006.99 Meg
+
+ Total Signals          : 375
+ Total Nets             : 71
+ Total Signal Drivers   : 60
+ Total Blocks           : 63
+ Total Primitive Blocks : 58
+ Total Processes        : 62
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 156
+Total Line Count : 82
+
+ Total Simulation Time: 0.34375 sec
+
+ Current Memory Usage: 534.344 Meg
+
+Sun Mar 17 16:58:03 2019
+

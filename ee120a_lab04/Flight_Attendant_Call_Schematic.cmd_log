@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Schematic.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Schematic.syr" 

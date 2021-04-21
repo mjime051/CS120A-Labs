@@ -1,0 +1,29 @@
+Command line:
+   behavioral_data_bus_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61627
+
+Wed Jan 30 13:26:26 2019
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 1006.78 Meg
+
+ Total Signals          : 25
+ Total Nets             : 24
+ Total Signal Drivers   : 16
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 18
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 110
+Total Line Count : 48
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 849.236 Meg
+
+Wed Jan 30 13:27:41 2019
+

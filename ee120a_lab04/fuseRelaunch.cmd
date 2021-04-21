@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/CS120A Labs/ee120a_lab04/FACM_testbench_isim_beh.exe" -prj "D:/CS120A Labs/ee120a_lab04/FACM_testbench_beh.prj" "work.FACM_testbench" "work.glbl" 

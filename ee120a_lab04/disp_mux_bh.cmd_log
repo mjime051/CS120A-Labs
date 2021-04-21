@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/disp_mux_bh.xst" -ofn "D:/CS120A Labs/ee120a_lab04/disp_mux_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc disp_mux_const.ucf -p xc3s100e-cp132-4 "disp_mux_bh.ngc" disp_mux_bh.ngd  
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/disp_mux_bh.xst" -ofn "D:/CS120A Labs/ee120a_lab04/disp_mux_bh.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc disp_mux_const.ucf -p xc3s100e-cp132-4 "disp_mux_bh.ngc" disp_mux_bh.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc disp_mux_const.ucf -p xc3s100e-cp132-4 "disp_mux_bh.ngc" disp_mux_bh.ngd  

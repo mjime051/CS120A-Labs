@@ -1,0 +1,8 @@
+V3 5
+FL "D:/CS120A Labs/ee120a_lab03/and_gate.vhf" 2019/01/30.14:38:39 P.20131013
+EN work/and_gate 1548888086 FL "D:/CS120A Labs/ee120a_lab03/and_gate.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/and_gate/BEHAVIORAL 1548888087 \
+      FL "D:/CS120A Labs/ee120a_lab03/and_gate.vhf" EN work/and_gate 1548888086 \
+      CP AND2

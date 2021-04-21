@@ -1,0 +1,28 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/CS120A Labs/ee120a_mini_project/traffic_light_schematic_traffic_light_schematic_sch_tb_isim_beh.exe -prj D:/CS120A Labs/ee120a_mini_project/traffic_light_schematic_traffic_light_schematic_sch_tb_beh.prj work.traffic_light_schematic_traffic_light_schematic_sch_tb work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/CS120A Labs/ee120a_mini_project/traffic_light_schematic.vf" into library work
+Analyzing Verilog file "D:/CS120A Labs/ee120a_mini_project/Street_Light_sys_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 181032 KB
+Fuse CPU Usage: 312 ms
+Compiling module AND5
+Compiling module INV
+Compiling module OR4
+Compiling module OR3
+Compiling module FMAP
+Compiling module OR6_MXILINX_traffic_light_schema...
+Compiling module OR12_MXILINX_traffic_light_schem...
+Compiling module AND3
+Compiling module traffic_light_schematic
+Compiling module traffic_light_schematic_traffic_...
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 11 Verilog Units
+Built simulation executable D:/CS120A Labs/ee120a_mini_project/traffic_light_schematic_traffic_light_schematic_sch_tb_isim_beh.exe
+Fuse Memory Usage: 187640 KB
+Fuse CPU Usage: 499 ms

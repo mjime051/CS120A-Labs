@@ -1,0 +1,24 @@
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc fasystem.ucf -p xc3s100e-tq144-4 "Flight_Attendant_Call_Module.ngc" Flight_Attendant_Call_Module.ngd  
+map -intstyle ise -p xc3s100e-tq144-4 -cm area -ir off -pr off -c 100 -o Flight_Attendant_Call_Module_map.ncd Flight_Attendant_Call_Module.ngd Flight_Attendant_Call_Module.pcf 
+map -intstyle ise -p xc3s100e-tq144-4 -cm area -ir off -pr off -c 100 -o Flight_Attendant_Call_Module_map.ncd Flight_Attendant_Call_Module.ngd Flight_Attendant_Call_Module.pcf 
+map -intstyle ise -p xc3s100e-tq144-4 -cm area -ir off -pr off -c 100 -o Flight_Attendant_Call_Module_map.ncd Flight_Attendant_Call_Module.ngd Flight_Attendant_Call_Module.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc fasystem.ucf -p xc3s100e-tq144-4 "Flight_Attendant_Call_Module.ngc" Flight_Attendant_Call_Module.ngd  
+map -intstyle ise -p xc3s100e-tq144-4 -cm area -ir off -pr off -c 100 -o Flight_Attendant_Call_Module_map.ncd Flight_Attendant_Call_Module.ngd Flight_Attendant_Call_Module.pcf 
+xst -intstyle ise -ifn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.xst" -ofn "D:/CS120A Labs/ee120a_lab04/Flight_Attendant_Call_Module.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc fasystem.ucf -p xc3s100e-cp132-4 "Flight_Attendant_Call_Module.ngc" Flight_Attendant_Call_Module.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Flight_Attendant_Call_Module_map.ncd Flight_Attendant_Call_Module.ngd Flight_Attendant_Call_Module.pcf 
+par -w -intstyle ise -ol high -t 1 Flight_Attendant_Call_Module_map.ncd Flight_Attendant_Call_Module.ncd Flight_Attendant_Call_Module.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Flight_Attendant_Call_Module.twx Flight_Attendant_Call_Module.ncd -o Flight_Attendant_Call_Module.twr Flight_Attendant_Call_Module.pcf -ucf fasystem.ucf 
+bitgen -intstyle ise -f Flight_Attendant_Call_Module.ut Flight_Attendant_Call_Module.ncd 

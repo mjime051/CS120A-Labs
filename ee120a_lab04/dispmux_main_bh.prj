@@ -1,0 +1,5 @@
+verilog work "hexto7segment.v"
+verilog work "disp_mux_bh.v"
+verilog work "clkdiv.v"
+verilog work "dispmux_main_bh.v"
+verilog work "Flight_Attendant_Call_Schematic.vf"
